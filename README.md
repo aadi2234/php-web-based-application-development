@@ -39,111 +39,111 @@ Open browser and run: http://localhost/php-web-based-application-development
 ## 📌 List of Programs
 01. PHP Basics
 
-Install & configure PHP, Web Server, MySQL ✅
+   Install & configure PHP, Web Server, MySQL ✅
 
-Print “Welcome to PHP”
+   Print “Welcome to PHP”
 
-Simple program using expressions & operators
+   Simple program using expressions & operators
 
 02. Decision Making
 
-If statement
+   If statement
 
-If-else statement
+   If-else statement
 
-Switch statement
+   Switch statement
 
 03. Looping Structures
 
-While loop
+   While loop
 
-Do-while loop
+   Do-while loop
 
-For loop
+   For loop
 
-Foreach loop
+   Foreach loop
 
 04. Arrays
 
-Indexed array
+   Indexed array
 
-Associative array
+   Associative array
 
-Multidimensional array
-
+   Multidimensional array
+   
 05. String Handling
 
-Length of string
+   Length of string
 
-Count words without built-in functions
+   Count words without built-in functions
 
-Demonstration of built-in string functions
+   Demonstration of built-in string functions
 
 06. Functions
 
-Simple function
+   Simple function
 
-Parameterized function
+   Parameterized function
 
 07. File Handling & Graphics
 
-Generate PDF using graphics concepts
+   Generate PDF using graphics concepts
 
 08. Object-Oriented Programming
 
-Inherit members of superclass
+   Inherit members of superclass
 
-Constructor initialization
+   Constructor initialization
 
 09. Advanced OOP
 
-Introspection
+   Introspection
 
-Serialization
+   Serialization
 
 10. Form Controls (Part 1)
 
-Textbox
+   Textbox
 
-Radio button
+   Radio button
 
-Checkbox
+   Checkbox
 
-Buttons
+   Buttons
 
 11. Form Controls (Part 2)
 
-List box
+   List box
 
-Combo box
+   Combo box
 
-Hidden field
+   Hidden field
 
 12. Data Validation
 
-Web page with validation rules
+   Web page with validation rules
 
 13. Cookies & Sessions
 
-Set and read cookies
+   Set and read cookies
 
-Session management
+   Session management
 
 14. Sending Email
 
-Send and receive plain text email
+   Send and receive plain text email
 
 15. Database (CRUD - Part 1)
 
-Insert data into database
+   Insert data into database
 
-Retrieve and display data
+   Retrieve and display data
 
 16. Database (CRUD - Part 2)
 
-Update data
+   Update data
 
-Delete data
+   Delete data
 
 
 ## 🛠️ How to Run Programs
@@ -165,4 +165,6 @@ Update connection credentials in PHP scripts (servername, username, password, db
 
 ---
 
-#Thank You For Visiting...
+##Thank You For Visiting...
+
+
