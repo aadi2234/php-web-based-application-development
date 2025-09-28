@@ -1,0 +1,7 @@
+<html>
+<head>
+<body>
+Enter Name:<input type="text" name="sname"/>
+</body>
+</head>
+</html>
